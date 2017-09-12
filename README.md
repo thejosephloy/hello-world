@@ -1,2 +1,6 @@
 # hello-world
 The journey begins...
+Hello there,
+
+I am an 18 year old male from Zion, IL. I am a highly ambitious, adventure-seeking 18 year old trying to find my way in the
+world. Where will the journey of life take me? Let's see...
